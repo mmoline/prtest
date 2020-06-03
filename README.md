@@ -1,2 +1,2 @@
 # prtest
-testing aws codebuild and pull requests
+Testing AWS CodeBuild and pull requests
