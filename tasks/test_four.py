@@ -13,7 +13,7 @@ def test_asdict():
                 'owner': 'okken',
                 'done': True,
                 'id': 21}
-    assert t_dict == expected
+    assert t_dict != expected
 
     
 def test_replace():
