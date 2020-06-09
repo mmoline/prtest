@@ -15,8 +15,6 @@ def test_asdict():
                 'id': 21}
     assert t_dict == expected
 
-
-    
     
 def test_replace():
     """replace() should change passed in fields."""
